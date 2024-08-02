@@ -161,3 +161,6 @@ Just remember, not everyone wants you pulling data from their web servers. Alway
 
 ## Output
 
+
+![Output1](./Output1.jpg)
+![Output2](./Output2.jpg)
