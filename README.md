@@ -158,4 +158,6 @@ In this tutorial, you learned how to:
 Writing automated web scraping programs is fun, and the internet has no shortage of content that can lead to exciting projects. 
 
 Just remember, not everyone wants you pulling data from their web servers. Always check a website’s Terms of Use before you start scraping, and be respectful about how you time your web requests so that you don’t flood a server with traffic.
-```
+
+## Output
+
